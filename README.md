@@ -1,2 +1,2 @@
 # imersao-python
-Códigos das Aulas de imersão de Python 
+Códigos das Aulas de imersão em  Python 
