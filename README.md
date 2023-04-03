@@ -9,3 +9,4 @@ Códigos dos Exercícios de imersão em  Python
 <p>:computer: <a href="#"> Lista de Exercícios - Aula 7</a> - Manipulação de Arquivos</p>
 
 # Curadoria de Material em Python :snake:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
