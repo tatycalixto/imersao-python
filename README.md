@@ -9,5 +9,6 @@ Códigos dos Exercícios de imersão em  Python
 <p>:computer: <a href="#"> Lista de Exercícios - Aula 7</a> - Manipulação de Arquivos</p>
 
 # Curadoria de Material em Python :snake:
-:books:
-:link:
+<p>:books:</p>
+<p>:link: </p>
+<p>:video_camera: </p>
