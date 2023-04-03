@@ -8,7 +8,7 @@ Códigos dos Exercícios de imersão em  Python
 <p>:computer: <a href="#"> Lista de Exercícios - Aula 6</a> - Funções</p>
 <p>:computer: <a href="#"> Lista de Exercícios - Aula 7</a> - Manipulação de Arquivos</p>
 
-# Material para estudar Python :snake:
+# Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
 <p>:link: <a href="https://docs.python.org/pt-br/3/tutorial/index.html"> Documentação de Python</a>  </p>
 <p>:link: <a href="https://www.devmedia.com.br/python-tutorial/33274">Tutorial Básico de Python</a>  </p>
