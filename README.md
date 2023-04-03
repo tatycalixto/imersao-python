@@ -10,5 +10,5 @@ Códigos dos Exercícios de imersão em  Python
 
 # Curadoria de Material em Python :snake:
 <p>:books:</p>
-<p>:link: <a haref="https://python.org.br/"> Python Brasil </a>  </p>
+<p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
 <p>:video_camera: </p>
