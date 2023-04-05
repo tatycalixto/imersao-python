@@ -4,7 +4,7 @@ Códigos dos Exercícios de Python
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_de_Exercicio_02.ipynb"> Lista de Exercícios - Aula 2</a> - Estrutura Condicionais :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_Aula_03.ipynb"> Lista de Exercícios - Aula 3</a> - Estruturas de Repetição :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_Aula_04.ipynb">  Lista de Exercícios - Aula 4 </a>- Vetores, Matrizes :white_check_mark: </p>
-<p>:computer: <!--<a href="#"> </a>-->Lista de Exercícios - Aula 5 - Tuplas e Dicionários</p>
+<p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_exerc%C3%ADcio_05.ipynb"> </a> Lista de Exercícios </a> - Aula 5 - Tuplas e Dicionários</p>
 <p>:computer: <!--<a href="#"> -->Lista de Exercícios - Aula 6</a> - Funções</p>
 <p>:computer: <!--<a href="#"> </a>-->Lista de Exercícios - Aula 7 - Manipulação de Arquivos</p>
 
