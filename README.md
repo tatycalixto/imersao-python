@@ -6,7 +6,7 @@ Códigos dos Exercícios de Python
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_Aula_04.ipynb">  Lista de Exercícios - Aula 4 </a>- Vetores, Matrizes :white_check_mark: </p>
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_exerc%C3%ADcio_05.ipynb">  Lista de Exercícios - Aula 5  </a>- Tuplas e Dicionários :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_Aula_06.ipynb"> Lista de Exercícios - Aula 6</a> - Funções :white_check_mark:</p>
-<p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_07.ipynb">Lista de Exercícios - Aula 7</a> - Manipulação de Arquivos</p>
+<p>:computer: <a href="https://github.com/tatycalixto/imersao-python/blob/main/Lista_Exercicio_07.ipynb">Lista de Exercícios - Aula 7</a> - Manipulação de Arquivos :white_check_mark:</p>
 
 # Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
